@@ -2,7 +2,7 @@
 
 ## Jupyter Notebook
 
-You can view the Jupyter notebook [here](./gmpy.ipynb). If you have time, I recommend running it yourself. 
+You can view the Jupyter notebook [here](./presentation/gmpy.ipynb). If you have time, I recommend running it yourself. 
 
 ## Resources
 

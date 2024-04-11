@@ -1,19 +1,20 @@
 # Fdb version 4
-["bibtex presentation"] 1712865962 "presentation.aux" "presentation.bbl" "presentation" 1712865992 0
+["bibtex presentation"] 1712865962 "presentation.aux" "presentation.bbl" "presentation" 1712868529 0
   "./refs.bib" 1712854289 658 45bee26ae74bfe83dc7184d7f12078c9 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "presentation.aux" 1712865992 5189 cb18b94597cd0e9a5498564a262cd1af "pdflatex"
+  "presentation.aux" 1712868529 5189 cb18b94597cd0e9a5498564a262cd1af "pdflatex"
   (generated)
   "presentation.bbl"
   "presentation.blg"
   (rewritten before read)
-["pdflatex"] 1712865990 "/Users/junseo/Library/CloudStorage/OneDrive-WashingtonUniversityinSt.Louis/WashU/Spring 2024/presentation/presentation/presentation.tex" "presentation.pdf" "presentation" 1712865992 0
+["pdflatex"] 1712868527 "/Users/junseo/Library/CloudStorage/OneDrive-WashingtonUniversityinSt.Louis/WashU/Spring 2024/presentation/presentation/presentation.tex" "presentation.pdf" "presentation" 1712868529 0
   "../images//fractional_error.png" 1712862920 27054 2c58123c869692ce9c2ecafcb1c7a2c6 ""
   "../images//patriot.png" 1712863498 252510 43d4b3c9e6bb88d286bc4f763cd5399d ""
-  "../images//pythoneg.png" 1712861513 31346 1183b5d9e9dd39a18546db12d6fb36fe ""
+  "../images//pythoneg.png" 1712868478 30417 5de35b7778cee514ece19b26eb92220f ""
+  "../images//rangegate.png" 1712866845 256732 2678f92a915734479a3c08b271811e8b ""
   "../images//ryzen9.png" 1712793772 710319 11fe74bb5b71ec627b2d2558e83805e8 ""
   "../images//xkcd.png" 1712865806 43188 f0af51b976e47038f98dcad621d97792 ""
-  "/Users/junseo/Library/CloudStorage/OneDrive-WashingtonUniversityinSt.Louis/WashU/Spring 2024/presentation/presentation/presentation.tex" 1712865992 9746 37bdbcac2ea9acfe33bd91269fd9cbf2 ""
+  "/Users/junseo/Library/CloudStorage/OneDrive-WashingtonUniversityinSt.Louis/WashU/Spring 2024/presentation/presentation/presentation.tex" 1712866851 9870 b9f4650fa1e40f3885af1db36db3c16c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcss1000.tfm" 1136768653 1536 293044035fd171bb1d18cf655049b101 ""
@@ -235,11 +236,11 @@
   "beamerinnerthememetropolis.sty" 1711480360 9093 b3363c49bd2ed0be1fd18f75a61056fe ""
   "beamerouterthememetropolis.sty" 1711480360 4645 f04b2e6f7e77adc819d7639fed40b2e8 ""
   "beamerthememetropolis.sty" 1711480360 3461 5c69ffdf5501aa7e38eb53d6f51b5efa ""
-  "presentation.aux" 1712865992 5189 cb18b94597cd0e9a5498564a262cd1af "pdflatex"
+  "presentation.aux" 1712868529 5189 cb18b94597cd0e9a5498564a262cd1af "pdflatex"
   "presentation.bbl" 1712865962 382 3e3708e7440074bb8d84ec3b6a4afb93 "bibtex presentation"
-  "presentation.nav" 1712865992 3051 249f5ce41ef7eb63caa2e867ca135f74 "pdflatex"
-  "presentation.out" 1712865992 499 daab6ae5002fb43306726d6869415a5e "pdflatex"
-  "presentation.tex" 1712865992 9746 37bdbcac2ea9acfe33bd91269fd9cbf2 ""
+  "presentation.nav" 1712868529 3051 249f5ce41ef7eb63caa2e867ca135f74 "pdflatex"
+  "presentation.out" 1712868529 499 daab6ae5002fb43306726d6869415a5e "pdflatex"
+  "presentation.tex" 1712866851 9870 b9f4650fa1e40f3885af1db36db3c16c ""
   (generated)
   "presentation.aux"
   "presentation.log"

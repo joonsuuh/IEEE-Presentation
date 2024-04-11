@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  11 APR 2024 15:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  11 APR 2024 15:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -890,11 +890,11 @@ Package pdftex.def Info: ../images//ryzen9.png  used on input line 51.
 ] [22
 
 ]
-<../images//pythoneg.png, id=157, 252.945pt x 160.6pt>
+<../images//pythoneg.png, id=157, 239.89626pt x 138.5175pt>
 File: ../images//pythoneg.png Graphic file (type png)
 <use ../images//pythoneg.png>
 Package pdftex.def Info: ../images//pythoneg.png  used on input line 188.
-(pdftex.def)             Requested size: 245.83282pt x 156.08812pt.
+(pdftex.def)             Requested size: 245.83282pt x 141.94753pt.
  [23
 
  <../images//pythoneg.png>] [24
@@ -911,17 +911,27 @@ Package pdftex.def Info: ../images//fractional_error.png  used on input line 218
 (pdftex.def)             Requested size: 245.83282pt x 193.51541pt.
  [27
 
- <../images//fractional_error.png>] [28
+ <../images//fractional_error.png>]
+<../images//rangegate.png, id=188, 709.14937pt x 435.12563pt>
+File: ../images//rangegate.png Graphic file (type png)
+<use ../images//rangegate.png>
+Package pdftex.def Info: ../images//rangegate.png  used on input line 231.
+(pdftex.def)             Requested size: 245.83282pt x 150.83556pt.
 
-] [29
+Overfull \vbox (10.77116pt too high) detected at line 231
+ []
+
+[28
+
+ <../images//rangegate.png>] [29
 
 ] [30
 
 ]
-<../images//patriot.png, id=203, 855.195pt x 370.38374pt>
+<../images//patriot.png, id=205, 855.195pt x 370.38374pt>
 File: ../images//patriot.png Graphic file (type png)
 <use ../images//patriot.png>
-Package pdftex.def Info: ../images//patriot.png  used on input line 261.
+Package pdftex.def Info: ../images//patriot.png  used on input line 266.
 (pdftex.def)             Requested size: 307.28987pt x 133.08371pt.
  [31
 
@@ -935,10 +945,10 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 ) [33
 
  </usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
-<../images//xkcd.png, id=237, 702.625pt x 264.99pt>
+<../images//xkcd.png, id=239, 702.625pt x 264.99pt>
 File: ../images//xkcd.png Graphic file (type png)
 <use ../images//xkcd.png>
-Package pdftex.def Info: ../images//xkcd.png  used on input line 296.
+Package pdftex.def Info: ../images//xkcd.png  used on input line 301.
 (pdftex.def)             Requested size: 245.83282pt x 92.71553pt.
  [34
 
@@ -960,18 +970,18 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: DAAB6AE5002FB43306726D6869415A5E;499.
  ) 
 Here is how much of TeX's memory you used:
- 26200 strings out of 476025
- 534720 string characters out of 5790017
+ 26209 strings out of 476025
+ 534946 string characters out of 5790017
  1882388 words of memory out of 5000000
- 46040 multiletter control sequences out of 15000+600000
+ 46048 multiletter control sequences out of 15000+600000
  518880 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,23n,122p,2064b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb>
-Output written on presentation.pdf (34 pages, 1142389 bytes).
+Output written on presentation.pdf (34 pages, 1344186 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
+ 325 PDF objects out of 1000 (max. 8388607)
  240 compressed objects within 3 object streams
  74 named destinations out of 1000 (max. 500000)
- 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
