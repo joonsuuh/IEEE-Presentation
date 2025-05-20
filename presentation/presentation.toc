@@ -1,3 +1,0 @@
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{IEEE-754: Floating Point Arithmetic}{16}{0}{2}
-\beamer@sectionintoc {3}{Simulations and Examples}{22}{0}{3}

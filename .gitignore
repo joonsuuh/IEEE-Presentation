@@ -1,0 +1,15 @@
+# Ignore macOS .DS_Store files
+*.DS_Store
+
+# Ignore latex build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+*.nav
+*.snm
